@@ -1,6 +1,7 @@
 # OpenCore-Gigabyte-B85M-D2V
 An OpenCore EFI configuration for the Gigabyte B85M-D2V Motherboard
 ![info](./overview.png)
+
 OpenCore 0.6.3\
 macOS Big Sur 11.0.1 (20B29)
 ## Hardware
